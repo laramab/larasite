@@ -38,6 +38,11 @@
   import LaramabCardItem from "../components/LaramabCardItem";
 
   export default {
+    metaInfo: {
+      meta: [
+        { charset: 'utf-8' }
+      ]
+    },
     components: {LaramabCardItem, LaramabBoxItem},
     data() {
       return {

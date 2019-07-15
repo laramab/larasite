@@ -1,7 +1,7 @@
 {
   "name": "laramab",
   "version": "1.0.0",
-  "description": "My incredible Nuxt.js project",
+  "description": "The power laravel blog for cambodian people who want to keep learning with latest laravel framework and many plugins tool.",
   "author": "HEL Mab",
   "private": true,
   "scripts": {
